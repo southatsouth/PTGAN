@@ -10,3 +10,8 @@ Our code is modified from https://github.com/XHUJOY/CycleGAN-tensorflow, you can
 - pillow 3.3.0
 
 
+### Train and Test
+- The procedure is similar with https://github.com/XHUJOY/CycleGAN-tensorflow, you can refer it.
+
+
+
