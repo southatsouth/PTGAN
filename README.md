@@ -20,7 +20,11 @@ Our code is modified from https://github.com/XHUJOY/CycleGAN-tensorflow, you can
 ## Results
 The results are shown as follows:
 <img src="CToD.png" width="800px"/>
-
-
-
-
+<img src="CtoM.png" width="800px"/>
+<img src="MtoC.png" width="800px"/>
+<img src="MtoD.png" width="800px"/>
+<img src="DtoC.png" width="800px"/>
+<img src="DtoM.png" width="800px"/>
+<img src="CtoMS.png" width="800px"/>
+<img src="MtoMS.png" width="800px"/>
+<img src="DtoMS.png" width="800px"/>
