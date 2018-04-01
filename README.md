@@ -19,7 +19,7 @@ Our code is modified from https://github.com/XHUJOY/CycleGAN-tensorflow, you can
 
 ## Results
 The results are shown as follows:
-<img src="imgs/n02381460_510.jpg" width="200px"/>
+<img src="CToD.jpg" width="200px"/>
 
 
 
